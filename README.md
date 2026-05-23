@@ -57,17 +57,6 @@ blackjack-game/
 
 ---
 
-## 📸 Screenshot
-
-Add your game screenshot here after uploading it to GitHub.
-
-Example:
-
-```md
-![Blackjack Screenshot](screenshot.png)
-```
-
----
 
 ## 💡 Concepts Practiced
 
@@ -80,6 +69,3 @@ Example:
 
 ---
 
-## 🙌 Author
-
-Made with ❤️ by Samuel
