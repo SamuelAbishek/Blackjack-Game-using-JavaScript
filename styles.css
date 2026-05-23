@@ -1,0 +1,62 @@
+body{
+	background-color: antiquewhite;
+	font-family: 'Lucida Grande';
+}
+
+#title{
+	font-size: 50px;
+}
+
+#container{
+	padding-top: 80px;
+	text-align: center;
+	color: black;
+	h1{
+		color: brown;
+	}
+	button{
+    color: black;
+    display: block;
+    margin: 20px auto;
+}
+}
+
+#btn-1{
+	color: #016f32;
+	width: 150px;
+	background-color: goldenrod;
+	display: flex;
+	justify-content: center;
+	border-radius: 10px;
+	padding: 10px;
+	font-weight: bold;
+}
+
+#btn-2{
+	background-color: goldenrod;
+	border-radius: 10px;
+	width: 150px;
+	color: #016f32;
+	padding:10px;
+	font-weight: bold;
+}
+
+#cont-dis{
+	text-align: center;
+}
+
+#player-div{
+	text-align: center;
+}
+
+#new-game{
+	text-align: center;
+	button{
+		color: #016f32;
+		background-color: goldenrod;
+		width: 250px;
+		border-radius: 20px;
+		padding: 10px;
+		font-weight: bold;
+	}
+}
